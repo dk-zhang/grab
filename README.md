@@ -9,7 +9,6 @@
     $ python get-pip.py // [下载 get-pip.py](https://bootstrap.pypa.io/get-pip.py)
     // 安装 mkdocs
     $ pip install mkdocs
-    pip install mkdocs
     // 进入项目目录
     $ cd website
     // 运行项目
