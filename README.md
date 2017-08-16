@@ -37,6 +37,7 @@
     
 ```
 ## Links
-[《为自己的项目生成在线文档》](https://phonechan.github.io/cil-share-conference-01/)
-[mkdocs](http://www.mkdocs.org/)
-[gh-pages](https://www.npmjs.com/package/gh-pages)
+
+* [《为自己的项目生成在线文档》](https://phonechan.github.io/cil-share-conference-01/)
+* [mkdocs](http://www.mkdocs.org/)
+* [gh-pages](https://www.npmjs.com/package/gh-pages)
